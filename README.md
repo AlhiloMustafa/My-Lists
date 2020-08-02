@@ -1,4 +1,4 @@
-# To Do List Web-App
+# To-Do List Web-App
 ###### Because I believe nothing can stop what we can do when we work together, I share what I learned with others
 
 > This project mostly focusing on Mongoose and MongoDB locally 
