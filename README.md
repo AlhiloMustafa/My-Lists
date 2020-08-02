@@ -37,10 +37,10 @@ Using Mongoose elegent MongoDB OBJECT modeling for Node.js and Build full web-ap
 #### Installation
 - MongoDB should has been installed with Mongoose.
 - Run this command “git clone https://github.com/AlhiloMustafa/Blogs-Daily.git↵”
-- Run npm install↵; you will see the node_modules add to your directory
+- Run npm install↵; you will see the node_modules added to the main directory
 - Run mongoDB using mongodb shell with command: mongo↵
 - On new mongoDB shell tap Run the app.js 
-- Now the web-app running locally on port 3000; you can use the code and play round
+- Now the web-app running locally on port 3000; you can use the code 
 
 
 [Back To The Top](#To-Do-List-Web-Appp)
